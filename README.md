@@ -1,2 +1,2 @@
 # Alexashkins.github.io
-privet drugi
+# privet drugi
